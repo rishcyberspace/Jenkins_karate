@@ -1,2 +1,3 @@
-examples\ExamplesTest.class
-examples\users\UsersRunner.class
+apiServices\ExtentManager.class
+apiServices\UsersRunner.class
+apiServices\ExtentReportHook.class
